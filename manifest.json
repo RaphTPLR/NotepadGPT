@@ -11,7 +11,8 @@
         "storage",
         "activeTab",
         "scripting",
-        "tabs"
+        "tabs",
+        "identity"
     ],
     "commands": {
         "_execute_action": {

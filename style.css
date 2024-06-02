@@ -105,6 +105,10 @@ p, span {
     font-size: .85rem;
 }
 
+.container .types .left .type:nth-child(1) {
+    cursor: pointer;
+}
+
 .container .types .left p {
     margin: 1rem;
 }
@@ -214,7 +218,3 @@ p, span {
     padding: 0 .7rem;
     border-left: 1px solid #6b6b6b;
 }
-
-/* .container .footer #1 {
-    border-left: 1px solid transparent;
-} */
